@@ -1,9 +1,14 @@
 body {
     background: skyblue;
-    color: orangered;
+    color: rgb(117, 14, 14);
+    font-size: 24px;
 }
 
 button {
     color: black;
     background: gold;
+}
+
+h1 {
+    font-size: 40px;
 }
